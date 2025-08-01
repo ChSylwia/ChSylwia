@@ -70,4 +70,4 @@ On a daily basis, I build web applications with a focus on aesthetics, performan
 
 ---
 
-_Dzięki za odwiedziny! Zajrzyj do moich repozytoriów – może znajdziesz coś ciekawego 🙂_
+Thanks for visiting! 🙌
