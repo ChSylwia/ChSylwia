@@ -65,7 +65,7 @@ On a daily basis, I build web applications with a focus on aesthetics, performan
 ## 📬 Contact
 
 
-- 📧 E-mail: chedkowska0@gmail.com
+- 📧 chedkowska0@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/sylwia-chedkowska-192258372)
 
 ---
